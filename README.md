@@ -1,7 +1,7 @@
-get all : https://curdapi-lab.herokuapp.com/products
-get one : https://curdapi-lab.herokuapp.com/products/<product id>
-delete : https://curdapi-lab.herokuapp.com/products/<product id>
-Create : https://curdapi-lab.herokuapp.com/products
+get all : https://curd001.herokuapp.com/products
+get one : https://curd001.herokuapp.com//products/<product id>
+delete : https://curd001.herokuapp.com//products/<product id>
+Create : https://curd001.herokuapp.com//products
 joson 
 {
 	"title": "<String>",	
